@@ -1,3 +1,6 @@
 [submodule "ipffs"]
 	path = ipffs
 	url = https://github.com/Herestt/ipffs.git
+[submodule "tos-formats"]
+	path = tos-formats
+	url = https://github.com/Herestt/tos-formats.git
